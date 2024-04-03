@@ -10,7 +10,7 @@ Using Encoder-Decoder with Attention Mechanism (AttnED) as the prediction model,
 choose from to explain the model - DiCE, LIME, and SHAP.
 
 Using AttnED with SHAP is accepted at the AI4H Workshop at the 16TH INTERNATIONAL CONFERENCE ON SIGNAL IMAGE TECHNOLOGY 
-& INTERNET BASED SYSTEMS as first author. Check out the publications [here]({% link _publications/sitis.md %}). Codes
+& INTERNET BASED SYSTEMS as first author. Check out the publications [here]({% link site.publications.sitis %}). Codes
 can be found in this [GitHub Repo](https://github.com/qisuqi/Attn_ED).
 
 ## How to Use AttnED Package
