@@ -11,54 +11,64 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Explainable AI, City, University of London, London, 2020-2024 (expected) 
+  * First Supervisor: Dr. Christos Kloukinas, Reader, City, University of London
+  * Second Supervisor: Prof. Artur d'Garcez, Professor, City, University of London
+* MSc in Data Science, City, University of London, London, 2019-2020
+* BSc in Mathematics, University of Surrey, Guildford, 2015-2019
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Machine Learning Enginner**, Ofcom, 2024-Present \\
+Algorithmic assessment for Online Safety Act.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**AI Researcher**, SMART BEAR EU Project, 2020-2024 \\
+Researcher for SMART BEAR developing a big data platform that will provide evidence-based personalised support
+for several pressing health-care issues faced by the aging EU societies.
+  * I led the XAI-driven research as part of my PhD study to personalise health interventions and promote independent
+  living for elderly patients from six EU countries
+  * Design a data-driven pipeline for Hearing Loss patients that provides clinicians with decision-making support by
+  leveraging AI and XAI techniques. Further improved collaboration skills while working in a large and complex 
+  cross-functional team.
+  * Spearheaded project to be tested with 5,000 elderly patients by 2023.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Graduate Teaching Assistant**, City, University of London, 2020-2024
+  * Assisted in teaching practical labs and marking coursework/thesis for undergraduate and postgraduate Computer Science students.
+  * Delivered modules in Data Science, Machine Learning, Big Data, Introduction to Java, and Theory of Computation
+  * Improved students' learning and understanding of key concepts and technologies in Computer Science
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Explainable AI
+* Deep Neural Networks
+* Machine Learning
+* NLP
+* Time Series
+* Big Data
+* Python
+* MatLab
+* Java
+* TensorFlow
+* PyTorch
+* Scikit-learn
+* PySpark
+
+Languages
+=====
+* Chinese: Fluent (Verbal & Written)
+* English: Fluent (Verbal & Written)
+* Spanish: Conversational 
   
-Teaching
+Certifications
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Piano: ABRSM - Grade 5 & Central Conservatory of Music (China) - Grade 7
+* HE Teaching: Associate Fellow
+
+
