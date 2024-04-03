@@ -268,7 +268,38 @@ defaults:
       layout: single
       author_profile: true
       share: true
-
+  # _projects-pubs
+  - scope:
+      path: ""
+      type: projects-pubs
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _projects-ds
+  - scope:
+      path: ""
+      type: projects-ds
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _projects-ml
+  - scope:
+      path: ""
+      type: projects-ml
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _projects-other
+  - scope:
+      path: ""
+      type: projects-other
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
