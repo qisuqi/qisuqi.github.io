@@ -205,6 +205,18 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  projects-pubs:
+    output: true
+    permalink: /:collection/:path/
+  projects-ds:
+    output: true
+    permalink: /:collection/:path/
+  projects-ml:
+    output: true
+    permalink: /:collection/:path/
+  projects-other:
+    output: true
+    permalink: /:collection/:path/
   free-time:
     output: true
     permalink: /:collection/:path/
@@ -230,15 +242,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -248,21 +251,21 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _free-time
   - scope:
       path: ""
-      type: portfolio
+      type: free-time
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _projects
   - scope:
       path: ""
-      type: talks
+      type: projects
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
