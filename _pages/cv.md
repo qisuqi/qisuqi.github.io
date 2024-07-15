@@ -21,7 +21,14 @@ Education
 Work experience
 ======
 **Machine Learning Enginner**, Ofcom, 2024-Present \\
-Algorithmic assessment for Online Safety Act.
+  * Leading a team of four in a pilot research for online services compliance with the Online Safety Act.
+  * Developed assessment metrics for online services to demonstrate compliance to the Online Safety Act.
+  * Consulted on regulatory policies regarding Online Safety Act.
+  * Advised the Secretary of States on assessing recommender system algorithms and mitigating potential online harms.
+  * Communicated research findings to diverse audiences.
+  * Contributing to guidelines on explainability for major social media platforms to align with Online Safety Act regulations.
+  * Serving as Scrum Master, overseeing project and sprint planning.
+
 
 **AI Researcher**, SMART BEAR EU Project, 2020-2024 \\
 Researcher for SMART BEAR developing a big data platform that will provide evidence-based personalised support
@@ -62,7 +69,7 @@ Skills
 
 Languages
 =====
-* Chinese: Fluent (Verbal & Written)
+* Chinese: Native (Verbal & Written)
 * English: Fluent (Verbal & Written)
 * Spanish: Conversational 
   
@@ -71,4 +78,9 @@ Certifications
 * Piano: ABRSM - Grade 5 & Central Conservatory of Music (China) - Grade 7
 * HE Teaching: Associate Fellow
 
+Other Projects
+======
+  <ul>{% for post in site.projects-other reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 

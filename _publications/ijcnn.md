@@ -1,16 +1,15 @@
 ---
-title: "Modular Neural Networks for Time Series Forecasting: Interpretability and Feature Selection using Attention"
+title: "FocusLearn: Fully-Interpretable, High-Performance Modular Neural Networks for Time Series"
 collection: publications
 permalink: /publication/ijcnn
 excerpt: ""
 date: 2024-07-01
-venue: 'International Joint Conference on Neural Networks'
+venue: 'IJCNN'
 paperurl: 'https://arxiv.org/abs/2311.16834'
-citation: 'Su, Q.; Kloukinas, C.; Garcez, A (2024) &quot;Modular Neural Networks for Time Series Forecasting: Interpretability and Feature Selection using Attention.&quot; <i>arxiv.org/abs/2311.16834</i>'
+citation: 'Su, Q.; Kloukinas, C.; Garcez, A (2024) &quot;FocusLearn: Fully-Interpretable, High-Performance Modular Neural Networks for Time Series.&quot; <i>arxiv.org/abs/2311.16834</i>'
 ---
 
-This paper is accepted at the IJCNN 2024 to be held in Yokohama, Japan in July 2024. A preview version of the paper
-is available on [arXiv](https://arxiv.org/abs/2311.16834). 
+This paper is accepted at the IJCNN 2024 in Yokohama, Japan in July 2024. A preview version of the paper is available on [arXiv](https://arxiv.org/abs/2311.16834). 
 
 ## Abstract
 
@@ -22,7 +21,7 @@ attention-based feature selection component selects the most relevant features a
 
 ```bibtex
 @misc{su2024modular,
-      title={Modular Neural Networks for Time Series Forecasting: Interpretability and Feature Selection using Attention}, 
+      title={FocusLearn: Fully-Interpretable, High-Performance Modular Neural Networks for Time Series}, 
       author={Qiqi Su and Christos Kloukinas and Artur d'Avila Garcez},
       year={2024},
       eprint={2311.16834},
