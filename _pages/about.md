@@ -21,4 +21,4 @@ inform business decisions. Check out the projects I have completed [here]({% lin
 I am currently working for Ofcom as a Machine Learning Engineer. We are researching how Ofcom, as a regulator, can 
 assess the algorithms to meet the requirements of the Online Safety Act. 
 
-In my free time, I like to [crochet]({% link _pages/crochet.md %}).
+I like to crochet in my free time, check the stuff I have made [here] ({% link _pages/crochet.md %}). 

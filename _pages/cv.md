@@ -21,6 +21,7 @@ Education
 Work experience
 ======
 **Machine Learning Enginner**, Ofcom, 2024-Present \\
+Algorithimic assessment for Online Safety. 
   * Leading a team of four in a pilot research for online services compliance with the Online Safety Act.
   * Developed assessment metrics for online services to demonstrate compliance to the Online Safety Act.
   * Consulted on regulatory policies regarding Online Safety Act.
