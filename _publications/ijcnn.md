@@ -18,7 +18,7 @@ models have shown excellent predictive performance for time series, they have be
 attention-based feature selection component selects the most relevant features and suppresses redundant features used in the learning of the temporal dependencies. A modular deep network is trained from the selected features independently to show the users how features influence outcomes, making the model interpretable. Experimental results show that this approach can outperform state-of-the-art interpretable Neural Additive Models (NAM) and variations thereof in both regression and classification of time series tasks, achieving a predictive performance that is comparable to the top non-interpretable methods for time series, LSTM and XGBoost.
 
 ## GitHub Repo
-Python code for FocusLearn is available [here.] (https://github.com/qisuqi/FocusLearn)
+Python code for FocusLearn is available [here.](https://github.com/qisuqi/FocusLearn)
 
 ## Bibtex
 
